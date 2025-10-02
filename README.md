@@ -189,8 +189,7 @@ FileCollectorApp
 file-collector/
 ├── file_collector.py    # Основной код приложения
 ├── README.md           # Документация
-├── requirements.txt    # Зависимости (если появятся)
-└── examples/          # Примеры использования
+└── requirements.txt    # Зависимости (если появятся)
 ```
 
 ### Возможности для расширения

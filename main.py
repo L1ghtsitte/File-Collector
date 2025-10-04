@@ -9,7 +9,7 @@ from collections import defaultdict
 class FileCollectorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Сборщик текстовых и кодовых файлов v2.0")
+        self.root.title("Сборщик текстовых и кодовых файлов v0.2")
         self.root.geometry("800x600")
         self.root.minsize(700, 500)
 
